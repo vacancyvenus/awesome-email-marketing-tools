@@ -253,6 +253,9 @@ A curated list of email marketing tools, comparisons, pricing guides, and resour
 
 ## Resources
 
+- [Email Marketing Pricing Index](https://emailtoolspot.com/data/email-marketing-pricing-index/) — Compare pricing models, upgrade triggers, and source links
+- [Email Marketing Free Plan Database](https://emailtoolspot.com/data/email-marketing-free-plan-database/) — Compare free-plan limits and upgrade points
+- [Email Marketing Cost Calculator](https://emailtoolspot.com/calculators/email-marketing-cost-calculator/) — Estimate monthly software budget from contacts and sending volume
 - [All Tool Comparisons](https://emailtoolspot.com/tools/) — Browse every email marketing tool comparison
 - [Browse by Category](https://emailtoolspot.com/categories/) — Find tools by business category
 - [About Email Tool Spot](https://emailtoolspot.com/about/) — Independent reviews since 2026
