@@ -269,3 +269,12 @@ This list is maintained by [Email Tool Spot](https://emailtoolspot.com/). To add
 ## License
 
 [MIT](LICENSE)
+
+
+## Pricing and ROI guides
+
+- [Email marketing costs by list size](https://emailtoolspot.com/email-marketing-costs-by-list-size/)
+- [Email marketing pricing comparison: cheap vs scalable](https://emailtoolspot.com/email-marketing-pricing-comparison-cheap-vs-scalable/)
+- [Newsletter platform costs for creators](https://emailtoolspot.com/newsletter-platform-costs-for-creators/)
+- [Email marketing ROI calculator guide](https://emailtoolspot.com/email-marketing-roi-calculator-guide/)
+- [Free email marketing plan limits](https://emailtoolspot.com/free-email-marketing-plan-limits/)
